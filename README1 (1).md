@@ -33,7 +33,7 @@ An LED module is placed near the emergency exit to provide a **clear visual indi
 5.  Connect the buzzer for audible indication.  
 6. Check all circuit connections carefully.  
 7.  Test the circuit under different conditions.  
-8.  Observe the LED and buzzer response..![image9](vv.png)
+8.  Observe the LED and buzzer response..
 
 
 ## **7\.  Applications**
