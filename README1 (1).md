@@ -10,7 +10,7 @@ In a hospital emergency, people may find it difficult to quickly identify the **
 
 ##  **3\.  Proposed Solution**
 
-An LED module is placed near the emergency exit to provide a **clear visual indication**, while a buzzer provides an **audible alert**. During an emergency, both indicators can be activated to help people identify and reach the exit quickly.![image1](hos1.jpg)
+An LED module is placed near the emergency exit to provide a **clear visual indication**, while a buzzer provides an **audible alert**. During an emergency, both indicators can be activated to help people identify and reach the exit quickly.![image1](vvv.jpeg)
 
 ## **4\.  Components Required**
 
